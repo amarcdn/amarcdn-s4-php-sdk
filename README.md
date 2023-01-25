@@ -1,1 +1,1 @@
-# s3-sdk-php
+# amarcdn-s4-php-sdk
